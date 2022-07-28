@@ -33,8 +33,8 @@ $ python3 example.py
 [Original Paper](https://pdos.csail.mit.edu/papers/ton:chord/paper-ton.pdf).
 
 ## Authors
-* **Leonardo Flórido**: [leo-dsf](https://github.com/leo-dsf)
-* **Gabriel Hall**: [GabrielHall02](https://github.com/GabrielHall02)
+* **Leonardo Flórido** - [leo-dsf](https://github.com/leo-dsf)
+* **Gabriel Hall** - [GabrielHall02](https://github.com/GabrielHall02)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
