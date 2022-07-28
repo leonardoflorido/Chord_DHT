@@ -1,6 +1,6 @@
 # Chord (DHT)
 
-This repository implement a simple version of the [CHORD](https://en.wikipedia.org/wiki/Chord_(peer-to-peer)) algorithm.
+This repository implement a simple version of the [Chord](https://en.wikipedia.org/wiki/Chord_(peer-to-peer)) algorithm.
 The provided code already setups the ring network properly.
 1. Supports Node Joins
 2. Finds the correct successor for a node
@@ -21,7 +21,7 @@ $ pip install -r requirements.txt
 
 ## Running the example
 Run in two different terminal:
-* DHT (setups a CHORD DHT):
+* DHT (setups a Chord DHT):
 ```console
 $ python3 DHT.py
 ```
