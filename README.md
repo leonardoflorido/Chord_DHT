@@ -1,4 +1,4 @@
-# CHORD (DHT)
+# Chord (DHT)
 
 This repository implement a simple version of the [CHORD](https://en.wikipedia.org/wiki/Chord_(peer-to-peer)) algorithm.
 The provided code already setups the ring network properly.
@@ -6,22 +6,32 @@ The provided code already setups the ring network properly.
 2. Finds the correct successor for a node
 3. Run Stabilize periodically to correct the network
 
+## Course
+This project was developed under the Distributed Computing course of [University of Aveiro](https://www.ua.pt/).
+
+## Installation
+* Clone the repository:
+```console
+$ git clone https://github.com/leo-dsf/Chat_Server
+```
+* Install requirements:
+```console
+$ pip install -r requirements.txt
+```
 
 ## Running the example
 Run in two different terminal:
-
-DHT (setups a CHORD DHT):
+* DHT (setups a CHORD DHT):
 ```console
 $ python3 DHT.py
 ```
-example (put and get objects from the DHT):
+* Example (put and get objects from the DHT):
 ```console
 $ python3 example.py
 ```
 
 ## References
-
-[original paper](https://pdos.csail.mit.edu/papers/ton:chord/paper-ton.pdf)
+[Original Paper](https://pdos.csail.mit.edu/papers/ton:chord/paper-ton.pdf).
 
 ## Authors
 * **Leonardo Flórido**: [leo-dsf](https://github.com/leo-dsf)
