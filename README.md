@@ -11,7 +11,7 @@ This project was developed under the Distributed Computing course of [University
 ## Installation
 * Clone the repository:
 ```console
-$ git clone https://github.com/leo-dsf/Chat_Server
+$ git clone https://github.com/leo-dsf/Chord_DHT
 ```
 * Install requirements:
 ```console
