@@ -19,7 +19,7 @@ $ pip install -r requirements.txt
 ```
 
 ## Running the example
-Run in two different terminal:
+Run in two different terminals:
 * DHT (setups a Chord DHT):
 ```console
 $ python3 DHT.py
